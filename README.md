@@ -1,3 +1,4 @@
+```
 Type Male =  </br>
 { </br>
 First_Name: String </br>
@@ -21,7 +22,7 @@ export contact infos =   </br>
 📧Mail: nico95.nm@gmail.com  </br>
 📘LinkeDin: -error- (missing URL)  </br>
 }
-
+```
 
 
 
