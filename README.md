@@ -1,4 +1,5 @@
 ````
+Import { GREETINGS 👋 } from './FrontMessage'
 Type Male = 
 { 
 First_Name: String 
