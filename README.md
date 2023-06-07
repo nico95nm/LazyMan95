@@ -1,29 +1,35 @@
-```
-Type Male =  </br>
-{ </br>
-First_Name: String </br>
-Last_Name: String </br>
-Age: Number </br>
-Born: String </br>
-Living: String </br>
-} </br>
+````
+Type Male = 
+{ 
+First_Name: String 
+Last_Name: String 
+Age: Number 
+Born: String 
+Living: String 
+} 
 
-<img src="/pic" alt="Nikola_Miletic"/>  </br>
-cost = Name {  </br>
-    Fist_Name: 'Nikola';  </br>
-    Last_Name: 'Miletic';  </br>
-    Age: 27;  </br>
-    Born = 'Serbia';  </br>
-    Living = 'Austria'  </br>
-}  </br>
-export contact infos =   </br>
-{  </br>
-🐦Twitter: https://twitter.com/FrostbiteWhite  </br>
-📧Mail: nico95.nm@gmail.com  </br>
-📘LinkeDin: -error- (missing URL)  </br>
+TaskMode =
+{ 
+Learning in progress.... Web Develepoer. . . Full Stack. . .
+Issue: 
+        Backend   ✔️✔️✔️✔️
+        Frontend  -----error---- ❌
+}</br>
+<img src="/pic" alt="Nikola_Miletic"/>  
+cost = Name { 
+        Fist_Name: 'Nikola';  
+        Last_Name: 'Miletic';  
+        Age: 27;  
+        Born = 'Serbia 🇷🇸 '; 
+        Living = 'Austria 🇦🇹 '; 
+} 
+export contact infos =  
+{  
+🐦Twitter: https://twitter.com/FrostbiteWhite
+📧Mail: nico95.nm@gmail.com 
+📘LinkeDin: -error- (missing URL)
 }
-```
-
+````
 
 
 
