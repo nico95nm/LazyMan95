@@ -15,7 +15,7 @@ Learning in progress.... Web Develepoer. . . Full Stack. . .
 Issue: 
         Backend   ✔️✔️✔️✔️
         Frontend  -----error---- ❌
-}</br>
+}
 <img src="/pic" alt="Nikola_Miletic"/>  
 cost = Name { 
         Fist_Name: 'Nikola';  
@@ -26,9 +26,9 @@ cost = Name {
 } 
 export contact infos =  
 {  
-🐦Twitter: https://twitter.com/FrostbiteWhite
-📧Mail: nico95.nm@gmail.com 
-📘LinkeDin: -error- (missing URL)
+🐦  -Twitter: https://twitter.com/FrostbiteWhite
+📧  Mail: nico95.nm@gmail.com 
+📘  LinkeDin: -error- (missing URL)
 }
 ````
 
