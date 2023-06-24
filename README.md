@@ -2,11 +2,11 @@
 Import { GREETINGS 👋 } from './FrontMessage'
 Type Male = 
 { 
-First_Name: String 
-Last_Name: String 
-Age: Number 
-Born: String 
-Living: String 
+First_Name: String;
+Last_Name: String; 
+Age: Number; 
+Born: String; 
+Living: String; 
 } 
 
 TaskMode =
@@ -18,11 +18,11 @@ Issue:
 }
 <img src="/pic" alt="Nikola_Miletic"/>  
 cost = Name { 
-        Fist_Name: 'Nikola';  
-        Last_Name: 'Miletic';  
+        Fist_Name: 'Nikola',  
+        Last_Name: 'Miletic',  
         Age: 27;  
-        Born = 'Serbia 🇷🇸 '; 
-        Living = 'Austria 🇦🇹 '; 
+        Born = 'Serbia 🇷🇸 ',
+        Living = 'Austria 🇦🇹 ' 
 } 
 export contact infos =  
 {  
