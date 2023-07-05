@@ -28,8 +28,7 @@ export contact infos =
 {  
 🐦  Twitter: https://twitter.com/FrostbiteWhite
 📧  Mail: nico95.nm@gmail.com 
-📘  LinkeDin: -error- (missing URL)
-}
+📘  LinkeIn: https://www.linkedin.com/in/lazy-man/
 ````
 
 
