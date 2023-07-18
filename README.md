@@ -29,6 +29,7 @@ export contact infos =
 🐦  Twitter: https://twitter.com/FrostbiteWhite
 📧  Mail: nico95.nm@gmail.com 
 📘  LinkeIn: https://www.linkedin.com/in/nikolamiletic95/
+}
 ````
 
 
